@@ -27,7 +27,7 @@ public class Assignment1Q1 {
             System.out.println(num+" is armstrong number");
         }
         else{
-            System.out.println(num+" is not 4armstrong number");
+            System.out.println(num+" is not armstrong number");
         }
     }
 }
